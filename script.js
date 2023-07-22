@@ -1,3 +1,5 @@
+import * d3 from "https://cdn.jsdeliver.net/npm/d3@7/+esm"; 
+
 const square_size = 45;
 const square_radius = 5;
 
